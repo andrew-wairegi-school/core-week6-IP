@@ -1,4 +1,4 @@
-# Week 4: Mchezopesa Ltd Win/Lose Analysis Notebook
+# Week 6: Mchezopesa Ltd Win/Lose Analysis Notebook
 
 ### By: Andrew Wairegi
 
